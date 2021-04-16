@@ -7,3 +7,5 @@ chmod +x ./setvars.sh
 chmod +x download_hana_repo.sh
 ./download_hana_repo.sh
 
+chmod +x install_library.sh
+./install_library.sh
