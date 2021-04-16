@@ -10,6 +10,6 @@ chmod +x download_hana_repo.sh
 chmod +x install_library.sh
 ./install_library.sh
 
-chmod +x install_workload.sh
-./install_workload.sh
+#chmod +x install_workload.sh
+#./install_workload.sh
 
