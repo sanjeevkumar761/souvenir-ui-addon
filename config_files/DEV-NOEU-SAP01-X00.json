@@ -10,7 +10,7 @@
         "sku": "gen1",
         "version": "latest"
       },
-      "app_sku": "Standard_D4sv3",
+      "app_sku": "Standard_D4s_v3",
       "scs_high_availability": false,
       "scs_server_count": 1,
       "scs_instance_number": "01",
