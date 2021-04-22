@@ -1,5 +1,5 @@
-chmod +x ./install_terraform.sh
-./install_terraform.sh
+#chmod +x ./install_terraform.sh
+#./install_terraform.sh
 
 chmod +x ./setvars.sh
 ./setvars.sh
