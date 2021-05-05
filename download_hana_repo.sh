@@ -1,4 +1,6 @@
 cd ..
+rm -Rf Azure_SAP_Automated_Deployment
+cd ..
 mkdir Azure_SAP_Automated_Deployment
 cd Azure_SAP_Automated_Deployment
 git clone https://github.com/Azure/sap-hana.git
