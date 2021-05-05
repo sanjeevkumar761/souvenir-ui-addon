@@ -14,7 +14,7 @@ cp sap-hana/documentation/SAP_Automation_on_Azure/Process_Documentation/WORKSPAC
 
 cd ~/Azure_SAP_Automated_Deployment/WORKSPACES
 
-$DEPLOYMENT_REPO_PATH/scripts/prepare_region.sh
+$DEPLOYMENT_REPO_PATH/deploy/scripts/prepare_region.sh
         --deployer_parameter_file DEPLOYER/MGMT-WEEU-DEP00-INFRASTRUCTURE/MGMT-WEEU-DEP00-INFRASTRUCTURE.json \
         --library_parameter_file LIBRARY/MGMT-WEEU-SAP_LIBRARY/MGMT-WEEU-SAP_LIBRARY.json
         --subscription bf44c08e-5fa3-4f73-987c-3a51f2d22b00 \

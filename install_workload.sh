@@ -1,6 +1,6 @@
  cd ~/Azure_SAP_Automated_Deployment/WORKSPACES/LANDSCAPE/DEV-WEEU-SAP01-INFRASTRUCTURE
 
-    ${DEPLOYMENT_REPO_PATH}deploy/scripts/install_workloadzone.sh --parameterfile DEV-WEEU-SAP01-INFRASTRUCTURE.json \
+    ${DEPLOYMENT_REPO_PATH}/deploy/scripts/install_workloadzone.sh --parameterfile DEV-WEEU-SAP01-INFRASTRUCTURE.json \
     --deployer_environment MGMT
     --subscription bf44c08e-5fa3-4f73-987c-3a51f2d22b00 \
     --spn_id b04c98e9-e18c-4082-b1bc-a2f3f745142f \
